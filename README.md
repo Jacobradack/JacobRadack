@@ -14,7 +14,11 @@ Welcome to my GitHub profile! I'm a passionate software developer specializing i
 I'm driven by a love for solving complex problems and turning ideas into reality through clean, maintainable code. My projects often focus on delivering seamless user experiences and robust functionality, blending modern frameworks and technologies.
 
 ### 🌱 What I’m Working On
+- Building innovative applications at **Airista**
 - Exploring the latest advancements in web development
 - Collaborating on open-source projects
+
+
+---
 
 ✨ *Feel free to explore my repositories and connect with me for collaboration opportunities!*
