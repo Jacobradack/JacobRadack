@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Jacob Radack
 
-<!--
-**Jacobradack/JacobRadack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate software developer specializing in building efficient, scalable, and user-friendly solutions. Currently, I work at **Airista**, contributing to cutting-edge projects and helping create impactful digital experiences.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Backend Development**: Golang, Python
+- **Frontend Development**: React, JavaScript, HTML/CSS
+- **Web Development**: Building dynamic, secure, and responsive websites
+- **Other Tools & Practices**: REST APIs, Microservices, Clean Code, Agile Development
+
+## 💻 About Me
+
+I'm driven by a love for solving complex problems and turning ideas into reality through clean, maintainable code. My projects often focus on delivering seamless user experiences and robust functionality, blending modern frameworks and technologies.
+
+### 🌱 What I’m Working On
+- Building innovative applications at **Airista**
+- Exploring the latest advancements in web development
+- Collaborating on open-source projects
+
+✨ *Feel free to explore my repositories and connect with me for collaboration opportunities!*
